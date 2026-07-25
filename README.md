@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abhay 👋
+
+## 👨‍💻 About Me
+- 🎓 BCA Graduate
+- 📱 Aspiring Android Developer
+- 💙 Passionate about building Android apps with Kotlin
+- 🌱 Currently learning MVVM & REST APIs
+- 🚀 Goal: Become a Professional Android Developer
+
+## 🛠️ Tech Stack
+- Kotlin
+- Jetpack Compose
+- Git & GitHub
+- OOP
+- Android Studio
+
+## 📂 Projects
+- 📱 Percentage Calculator
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/abhay-saini-28a595421?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 <!--
 **abhay-saini-9045/abhay-saini-9045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
