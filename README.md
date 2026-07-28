@@ -18,7 +18,8 @@
 - 📱 Percentage Calculator
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/abhay-saini-28a595421?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn:
+- linkedin.com/in/abhay-saini-28a595421
 
 <!--
 **abhay-saini-9045/abhay-saini-9045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
