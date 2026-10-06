@@ -10,12 +10,16 @@
 ## 🛠️ Tech Stack
 - Kotlin
 - Jetpack Compose
+- Room Database
+- MVVM
 - Git & GitHub
 - OOP
 - Android Studio
 
 ## 📂 Projects
-- 📱 Percentage Calculator
+- Percentage Calculator
+- ToDo-List-App
+- Notes-App
 
 ## 📫 Connect with Me
 - LinkedIn:
