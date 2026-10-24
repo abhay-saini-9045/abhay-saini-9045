@@ -17,7 +17,7 @@
 - Android Studio
 
 ## 📂 Projects
-- Expence Tracker 
+- Expense Tracker 
 - ToDo-List-App
 - Notes-App
 - Percentage Calculator 
