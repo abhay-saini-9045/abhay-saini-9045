@@ -17,9 +17,10 @@
 - Android Studio
 
 ## 📂 Projects
-- Percentage Calculator
+- Expence Tracker 
 - ToDo-List-App
 - Notes-App
+- Percentage Calculator 
 
 ## 📫 Connect with Me
 - LinkedIn:
